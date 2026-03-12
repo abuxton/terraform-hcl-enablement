@@ -111,6 +111,21 @@
       "sourceType": "github",
       "computedHash": "285857def59b9514abd6d3d4aaa4e61766dce4288935f9d3f90c4a3ecbd8b6f8"
     },
+    "suggest-awesome-github-copilot-agents": {
+      "source": "github/awesome-copilot",
+      "sourceType": "github",
+      "computedHash": "974e629421e71810c7462b606262012d3cccb85dcfd9d595a25ab66620f78c76"
+    },
+    "suggest-awesome-github-copilot-instructions": {
+      "source": "github/awesome-copilot",
+      "sourceType": "github",
+      "computedHash": "d2545b97b786f573aea63664e73a9ffbd619d5390a6c6e287f235f6f41ad1108"
+    },
+    "suggest-awesome-github-copilot-skills": {
+      "source": "github/awesome-copilot",
+      "sourceType": "github",
+      "computedHash": "326ab63e60c60b2880781cc05e7289c911612e4d74c71b3bbaf8cad2c531ab8e"
+    },
     "technical-writing": {
       "source": "supercent-io/skills-template",
       "sourceType": "github",
